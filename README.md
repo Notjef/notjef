@@ -1,8 +1,10 @@
-<img align="center" src="https://github.com/Notjef/notjef/assets/fbe646f1-4c72-4e61-ad01-bcabad26dfb6" alt="imagem">
+<img align="center" src="https://github.com/Notjef/notjef/assets/e589ee4d-f4ca-4806-a249-790b8c6d8d14)" alt="imagem">
 
 
 
 
-Olá, Srs
 
-Me chamo *Jeferson Rodrigo*👨🏻‍💻
+Dear Sirs,
+My name is *Jeferson Rodrigo*👨🏻‍💻
+
+
