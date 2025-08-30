@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://postimg.cc/6TVbxKcf"  />
+   <img src="https://imgur.com/gallery/007-generation-08D8vgI#1t1ueSs.gif" width="400">
 </div>
 
 ###
@@ -63,6 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notjef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=notjef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=notjef&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
+  | :-: | | :-: | | :-: | 
 </div>
 
 ###
