@@ -6,9 +6,10 @@
 
 ###
 
-<div align="center">
-   <img src="https://imgur.com/gallery/007-generation-08D8vgI#1t1ueSs.gif" width="400">
-</div>
+   <p align="center">
+  <img src="https://i.imgur.com/1t1ueSs.gif" width="400">
+</p>
+
 
 ###
 
