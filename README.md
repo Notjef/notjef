@@ -1,86 +1,54 @@
-<h4 align="center">Hello, gentlemen! My name is Jeferson Rodrigo 👨🏻‍💻</h4>
+### o "Hello, gentlemen👋, I'm Jeferson".
 
-###
+<a href="https://github.com/notjef/">
+  <img align="right" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
+</a>
+<a href="http://www.linkedin.com/in/jeferson-rodrigo/">
+  <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+<a href="https://open.spotify.com/user/capit%C3%A3oz%C3%A9ruela?si=KYMNfmRhQEeLvEoEnPC-iw">
+  <img align="right" alt="Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" />
+</a>
 
-<h6 align="left">Systems Analysis and Development student, deeply committed to building a strong career in the corporate tech world. I’m currently specializing in Back-End development, aiming to become a high-level expert. I’m an end-game kind of person — focused, driven, and constantly evolving.</h6>
+</a>
 
-###
+- Data Analyst & Back-End Developer. Obsessed with results and constant growth. Never willing to be just anyone — I was born to be the one who changes the game.
+  <img align="right" alt="gif" height='250px' src="https://media4.giphy.com/media/3o7aD6ydPRgEPllYQM/giphy.gif?cid=ecf05e476xadfzj405j7s67jnpqqzhpi82w8jy5im4lc6jfu&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-   <p align="center">
-  <img src="https://i.imgur.com/1t1ueSs.gif" width="400">
-</p>
+<br />
+
+**My Certification Badges:**
+</br>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/jose-malty/21472A3EFC39BB83?sharingId=8C08AAFDB438F348">
+  <img alt="Azure Fundamentals AZ-900 Badge" width="160px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
+</a>
+<a href="https://www.credly.com/badges/894173bc-5984-467c-9845-b5846a0a20a9/public_url">
+  <img alt="Github Foundations Badge" width="160px" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/>
+</a>
 
 
-###
+**Personal life:**
 
-<p align="right">“Great men are not born great, they grow great.”</p>
+-  i am currently a student of **Universidade do Sul de Santa Catarina**.
+-  enrolled in **informational systems**.
 
-###
-
-<h5 align="left">🌐Socials:</h5>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="www.linkedin.com/in/jeferson-rodrigo-937676276" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/cWH3pbWg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/not_jef?igsh=bnhiaWhrc2QweDB3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <a href="jefersondacostacomercial@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
+<div style="display: inline_block"><br>
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
-###
-
-<h5 align="left">💻 TECH STACK:</h5>
-
-###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h5 align="left">📊GITHUB STATS:</h5>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notjef&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=notjef&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notjef&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
-  | :-: | | :-: | | :-: | 
-</div>
-
-###
-
+  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notjef/notjef/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notjef/notjef/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/notjef/notjef/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake.svg">
 </picture>
-
-###
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=notjef.notjef&right_color=crimson"  />
+  
 </div>
-
-###
-
 
