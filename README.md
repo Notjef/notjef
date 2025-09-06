@@ -13,7 +13,7 @@
 </a>
 
 - **Back-End Developer. Obsessed with results and constant growth.Never willing to be just anyone — I was born to be the one who changes the game.**
-<img align="right" alt="Meu gif" height="460px" src="https://imgur.com/OFY3zzC.gif" />
+<img align="right" alt="Meu gif" height="460px" src="https://i.imgur.com/ILsNtIs.gif" />
 
 
 
