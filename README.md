@@ -1,4 +1,4 @@
--### o "Hello, gentlemen👋, I'm Jeferson".
+- **"Hello, gentlemen👋, I'm Jeferson"**.
 
 <a href="https://www.instagram.com/not_jef?igsh=bnhiaWhrc2QweDB3">
   <img align="right" alt="instagram" width="22px"  src="https://github.com/user-attachments/assets/046961b1-e847-43bd-8eb5-2214dc8a7f56" />
@@ -12,8 +12,7 @@
 
 </a>
 
-- Back-End Developer. Obsessed with results and constant growth.
-- Never willing to be just anyone — I was born to be the one who changes the game.
+ **Back-End Developer. Obsessed with results and constant growth.Never willing to be just anyone — I was born to be the one who changes the game.**
  <img align="right" alt="imgur" height="360px" src="https://i.imgur.com/xi3Ljfq.gif" />
 
 
