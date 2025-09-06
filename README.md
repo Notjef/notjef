@@ -1,7 +1,7 @@
 ### o "Hello, gentlemen👋, I'm Jeferson".
 
-<a href="https://github.com/notjef/">
-  <img align="right" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
+<a href="https://www.instagram.com/not_jef?igsh=bnhiaWhrc2QweDB3">
+  <img align="right" alt="instagram" width="22px"  src="https://github.com/user-attachments/assets/046961b1-e847-43bd-8eb5-2214dc8a7f56" />
 </a>
 <a href="http://www.linkedin.com/in/jeferson-rodrigo/">
   <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
@@ -12,7 +12,8 @@
 
 </a>
 
-- Data Analyst & Back-End Developer. Obsessed with results and constant growth. Never willing to be just anyone — I was born to be the one who changes the game.
+- Back-End Developer. Obsessed with results and constant growth.
+- Never willing to be just anyone — I was born to be the one who changes the game.
   <img align="right" alt="gif" height='250px' src="https://media4.giphy.com/media/3o7aD6ydPRgEPllYQM/giphy.gif?cid=ecf05e476xadfzj405j7s67jnpqqzhpi82w8jy5im4lc6jfu&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 <br />
@@ -26,15 +27,11 @@
   <img alt="Github Foundations Badge" width="160px" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/>
 </a>
 
-
-**Personal life:**
-
--  i am currently a student of **Universidade do Sul de Santa Catarina**.
--  enrolled in **informational systems**.
+**Languages And Tools:**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
