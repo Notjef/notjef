@@ -30,7 +30,7 @@
   <img alt="Github Foundations Badge" width="160px" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/>
 </a>
 
-**Languages And Tools:** aa
+**Languages And Tools:** 
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
