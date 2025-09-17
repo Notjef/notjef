@@ -29,6 +29,8 @@
 <a href="https://www.credly.com/badges/894173bc-5984-467c-9845-b5846a0a20a9/public_url">
   <img alt="Github Foundations Badge" width="160px" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/>
 </a>
+<a href="https://www.credly.com/badges/22336acd-57f2-4d1e-a3a7-af96f007ce8d/linked_in?t=sqdowx">
+    <img alt="AWS Cloud Practitioner Badge" width="160px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
 
 **Languages And Tools:** 
 
