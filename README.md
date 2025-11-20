@@ -1,4 +1,9 @@
-**Hello, gentlemen👋, I'm Jeferson**.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&center=true&vCenter=true&width=1000&lines=Technology+and+innovation+=+💡)](https://git.io/typing-svg)
+
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" alt="Hi GIF" /> Hello, Gentlemen I'm Jeferson!
+</h1>
+
 
 <a href="https://www.instagram.com/not_jef?igsh=bnhiaWhrc2QweDB3">
   <img align="right" alt="instagram" width="22px"  src="https://github.com/user-attachments/assets/046961b1-e847-43bd-8eb5-2214dc8a7f56" />
