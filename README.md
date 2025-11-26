@@ -3,26 +3,45 @@
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" alt="Hi GIF" /> Hello, Gentlemen I'm Jeferson!
 </h1>
+ 
+    public class AboutMe { 
 
+    private final String[] languages = {"pt-BR", "EN"};
 
-```yaml
-about_me:
-  languages: ["pt-br", "eng"]
-  description:
-    - "🧑‍💻 I'm 23 years old and passionate about technology and backend development"
-    - "🎓 Currently studying Systems Analysis and Development"
-    - "💼 Back-end Developer focused on Java and Spring Boot"
-    - "🧠 Experience with Git, GitHub, CI/CD practices and containerization with Docker.
-          Currently specializing in cloud technologies (AWS & Azure)"
-    - "🛠 Focused on sharpening my Java, Spring Boot and cloud skills"
+    private final String[] description = {
+        "🧑‍💻 I'm 23 years old and passionate about technology and backend development",
+        "🎓 Currently studying Systems Analysis and Development",
+        "💼 Back-end Developer focused on Java and Spring Boot",
+        "🧠 Experience with Git, GitHub, CI/CD practices and Docker containerization.",
+        "    Currently specializing in cloud technologies (AWS & Azure)",
+        "🛠 Focused on sharpening my Java, Spring Boot and cloud skills"
+    };
 
-  contact:
-    ask_me_anything:
-      text: "💬 Ask me anything"
-      url: "https://github.com/Notjef"
+    private final String contactText = "💬 Ask me anything";
+    private final String contactUrl  = "https://github.com/Notjef";
 
-```
-<br />
+    public void printProfile() {
+        System.out.println("=== ABOUT ME ===\n");
+
+        System.out.println("🌐 Languages:");
+        for (String lang : languages) {
+            System.out.println(" - " + lang);
+        }
+
+        System.out.println("\n📌 Description:");
+        for (String desc : description) {
+            System.out.println(" - " + desc);
+        }
+
+        System.out.println("\n📨 Contact:");
+        System.out.println(" - " + contactText + ": " + contactUrl);
+    }
+
+    public static void main(String[] args) {
+        new AboutMe().printProfile();
+    }
+    
+    }
 
 ## My certification badges
 </br>
