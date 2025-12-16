@@ -66,6 +66,15 @@
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
+</p>
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Notjef&show_icons=true&theme=dark&hide_border=true" />
+  &nbsp;&nbsp;
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notjef&layout=compact&langs_count=7&theme=dark&hide_border=true" />
+</p>
+
 
 
 <div align="center">
