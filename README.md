@@ -43,8 +43,7 @@
     
     }
 
-**My certification badges**
----
+<h2 align="center">My certification badges</h2>
 <div align="center">
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/jose-malty/21472A3EFC39BB83?sharingId=8C08AAFDB438F348">
   <img alt="Azure Fundamentals AZ-900 Badge" width="160px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
@@ -54,9 +53,9 @@
 </a>
 <a href="https://www.credly.com/badges/22336acd-57f2-4d1e-a3a7-af96f007ce8d/linked_in?t=sqdowx">
     <img alt="AWS Cloud Practitioner Badge" width="160px" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
+</div>
 
-**Skills**
----
+<h2 align="center">Skills</h2>
 <div align="center">
 <div style="display: inline-block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
