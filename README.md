@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&center=true&vCenter=true&width=1000&lines=Technology+and+innovation+=+ðŸ’¡)](https://git.io/typing-svg)
 
 <h1 align="left">
@@ -107,3 +109,5 @@ Contact me on the social media channels above or open an issue here on GitHub! ð
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=notjef" alt="Profile views"/>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
