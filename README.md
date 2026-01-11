@@ -4,8 +4,21 @@
 
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" alt="Hi GIF" /> Hello, Gentlemen I'm Jeferson!
+
+
+
+
 </h1>
- 
+<br>
+<details align="center">
+    <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+    </summary>
+    <br>
+<div align="center">
+
     public class AboutMe { 
 
     private final String[] languages = {"pt-BR", "EN"};
@@ -111,3 +124,5 @@ Contact me on the social media channels above or open an issue here on GitHub! ð
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+
+</details>
