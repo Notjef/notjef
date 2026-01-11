@@ -4,7 +4,9 @@
 
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" alt="Hi GIF" /> Hello, Gentlemen I'm Jeferson!
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&duration=3000&pause=500&color=9BADC4&background=BFBFBF00&center=true&multiline=true&width=600&lines=%3C%2FHello+World!+I'm+Jeferson!%3E;-+Backend+Developer+-" alt="Typing SVG" /></a>
+<p align="center">
 
 
 
@@ -18,6 +20,7 @@
     </summary>
     <br>
 <div align="center">
+
 
     public class AboutMe { 
 
@@ -79,6 +82,7 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="python" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
 </p>
@@ -123,6 +127,9 @@ Contact me on the social media channels above or open an issue here on GitHub! ð
   <img src="https://komarev.com/ghpvc/?username=notjef" alt="Profile views"/>
 </p>
 
+</details>
+
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
 
-</details>
