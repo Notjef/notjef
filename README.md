@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffffff"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&center=true&vCenter=true&width=1000&lines=Technology+and+innovation+=+💡)](https://git.io/typing-svg)
-
-<h1 align="left">
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" alt="Hi GIF" /> Hello, Gentlemen I'm Jeferson!
 <p align="center">
+<img src="https://i.imgur.com/HmiFB9r.gif" width="30%" alt="Descrição do GIF">
+</p>
+
+<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&duration=3000&pause=500&color=9BADC4&background=BFBFBF00&center=true&multiline=true&width=600&lines=%3C%2FHello+World!+I'm+Jeferson!%3E;-+Backend+Developer+-" alt="Typing SVG" /></a>
-<p align="center">
+<h1 align="center">
 
 
 
@@ -98,7 +98,7 @@
 
 <div align="center">
   
-<picture>
+</picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake.svg">
@@ -131,5 +131,5 @@ Contact me on the social media channels above or open an issue here on GitHub! �
 
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer"/>
 
