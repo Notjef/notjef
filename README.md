@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&duration=3000&pause=500&color=9BADC4&background=BFBFBF00&center=true&multiline=true&width=600&lines=%3C%2FHello+World!+I'm+Jeferson!%3E;-+Backend+Developer+-" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&duration=3000&pause=500&color=FFFFFF&background=BFBFBF00&center=true&multiline=true&width=600&lines=%3C%2FHello+World!+I'm+Jeferson!%3E;-+Backend+Developer+-" alt="Typing SVG" /></a>
 <h1 align="center">
 
 
@@ -20,6 +20,8 @@
     </summary>
     <br>
 <div align="center">
+
+    
 <div align="left">
 
     public class AboutMe { 
