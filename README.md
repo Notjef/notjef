@@ -20,7 +20,7 @@
     </summary>
     <br>
 <div align="center">
-
+<div align="left">
 
     public class AboutMe { 
 
@@ -60,7 +60,7 @@
     }
     
     }
-
+</div>
 <h2 align="center">My certification badges</h2>
 <div align="center">
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/jose-malty/21472A3EFC39BB83?sharingId=8C08AAFDB438F348">
