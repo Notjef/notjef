@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffffff"/>
+
 
 <p align="center">
   <img src="https://i.imgur.com/HmiFB9r.gif" width="30%" alt="Descrição do GIF">
@@ -104,4 +104,4 @@ Contact me on the social media channels above or open an issue here on GitHub! �
   <img src="https://komarev.com/ghpvc/?username=notjef" alt="Profile views"/>
 </p>
   </details>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer"/>
+
