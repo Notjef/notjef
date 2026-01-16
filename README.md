@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img src="https://i.imgur.com/HmiFB9r.gif" width="30%" alt="Descrição do GIF">
 </p>
