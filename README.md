@@ -75,17 +75,32 @@ public class AboutMe {
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=sussynk&theme=dark&show_icons=true&count_private=true">
+<div align="center">
+  <table border="0">
+    <tbody>
+      <tr border="none">
+        <td width="50%" align="center">
+          <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Notjef&theme=dark&show_icons=true&count_private=true">
+          <br><br>
+          <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Notjef&theme=dark">
+        </td>
+        <td width="50%" align="center">
+          <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Notjef&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=sussynk&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sussynk&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-
+<div align="center">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake-dark.svg">
     <img src="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+
 <div align="center">
 
 ### Want to exchange ideas?
