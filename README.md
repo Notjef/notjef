@@ -74,6 +74,14 @@ public class AboutMe {
     <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
+
+### GitHub Stats
+![Estatísticas de Notjef](https://github-readme-stats.vercel.app/api?username=Notjef&show_icons=true&theme=dark&rank_icon=github)
+
+### Most Used Languages
+![Linguagens de Notjef](https://github-readme-stats.vercel.app/api/top-langs/?username=Notjef&layout=compact&theme=dark)
+
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake-dark.svg">
     <img src="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake.svg">
